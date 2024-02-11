@@ -1,9 +1,9 @@
 // Contoh penggunaan component dengan mengimport dari file external
-import Gallery from "./Gallery"
+import Packing from "./Packing"
 
 function App() {
   return (
-    <Gallery/>
+    <Packing/>
   )
 }
 
